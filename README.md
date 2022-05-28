@@ -9,10 +9,10 @@ exports['SllimTextUI']:OpenUI('[Key] - Text', 'color')
 
 ```lua
 
--purple
--white
--green
--red
+--purple
+--white
+--green
+--red
 
 ```
 # Hide UI
